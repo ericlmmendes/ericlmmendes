@@ -1,9 +1,8 @@
 ## Olá, Bem vindos.
 
 - 👋 Oi, eu sou EricLM.EVO
-- 👀 Estou interessado em...
-- 🔭 Atualmente estou HTML, CSS.
-- 💞️ Estou procurando colaborar em...
+- 👀 Estou interessado em apender tudo.
+- 🔭 Atualmente estou estudando: HTML, CSS.
 - 📫 Como chegar até mim E-mail: ericlm.evo@gmail.com
 
 <div align="center">
